@@ -28,7 +28,6 @@ Publication: "For Your Skin Beauty: Mapping Cosmetic Items with Bokeh", Nov 28. 
 
 https://github.com/jjone36/Cosmetic/blob/master/image/map.gif
 
-
 3. What's Next?
 Gather more data and make my own database with MySQL.
 Apply advanced models with Neural Networks
