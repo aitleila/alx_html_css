@@ -1,4 +1,7 @@
 html, body 
+
+
+
 { width: 100% }
 
 main
@@ -7,10 +10,10 @@ main
 footer{display: block;float:left ;width: 100%;}
 
 article
-{display: block; float: left; width: 40%;}
+{display: block; float: left; width: 40%;overflow-y: auto;}
 
 aside
-{display: block; float: right; width:34%;}
+{display: block; float: right; width:34%;overflow-y: auto;}
 
 
 
