@@ -5,7 +5,7 @@ main
 { width: 100%; flex-direction: row;flex: auto;}
 
 footer
-{ width: 100%;flex-direction: row;flex: auto;}
+{ width: 100%;flex-direction: left;flex: auto;}
 
 article
 {display: block; float: left; width: 40%;}
