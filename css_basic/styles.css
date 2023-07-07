@@ -4,7 +4,11 @@ html, body
 main
 { display:flex; width: 100%; flex-direction: row;flex: auto;}
 
-footer{display: block;float:left ;width: 100%;}
+footer{
+    display: block;
+    float:left ;
+    width: 100%;
+}
 
 article {
     border: 2px solid black;
@@ -25,6 +29,7 @@ aside {
     overflow-y: auto;
 }
 header{
+    width: 100%;
     display: block; 
     float:none; 
     overflow-y: auto;
