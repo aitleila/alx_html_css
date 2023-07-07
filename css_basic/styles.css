@@ -1,0 +1,17 @@
+html, body 
+{ width: 100% }
+
+main
+{ width: 100%; flex-direction: row;flex: auto;}
+
+footer
+{ width: 100%;}
+
+article
+{display: block; float: left; width: 40%;}
+
+aside
+{display: block; float: right; width: 33,33%;}
+
+
+
