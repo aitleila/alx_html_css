@@ -4,8 +4,7 @@ html, body
 main
 { width: 100%; flex-direction: row;flex: auto;}
 
-footer
-{ width: 100%;flex-direction: left;flex: auto;}
+footer{display: block;float:left ;width: 100%;}
 
 article
 {display: block; float: left; width: 40%;}
