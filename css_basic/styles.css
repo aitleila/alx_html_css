@@ -1,8 +1,10 @@
 html, body 
 { width: 100% }
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid black; float:none;
   }
+  {table::content solid black}
+
 
 
 
