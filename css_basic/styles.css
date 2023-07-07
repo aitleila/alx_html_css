@@ -1,16 +1,12 @@
 html, body 
 { width: 100% }
 
+
 main
 { display:flex; width: 100%; flex-direction: row;flex: auto;}
 
-footer{
-    display: block;
-    float:left ;
-    width: 100%;
-}
 
-article {
+    article {
     border: 2px solid black;
     background-color: white;
     color: aqua;
@@ -19,21 +15,26 @@ article {
     float: left; 
     width: 40%;
     overflow-y: auto;
-}
+    }
 
-aside {
+    aside {
     flex: 1;
     display: block; 
     float: right; 
     width:34%;
     overflow-y: auto;
-}
+    }
+
 header{
     width: 100%;
-    display: block; 
+    display: none; 
     float:auto; 
     overflow-y: auto;
     flex-direction: row;
 }
 
-
+footer{
+    display: block;
+    float:left ;
+    width: 100%;
+}
