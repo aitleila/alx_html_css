@@ -27,7 +27,7 @@ main
 
 header{
     width: 100%;
-    display: none; 
+    display:flex; 
     float:auto; 
     overflow-y: auto;
     flex-direction: row;
