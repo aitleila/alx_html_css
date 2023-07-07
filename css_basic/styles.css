@@ -24,6 +24,10 @@ aside {
     width:34%;
     overflow-y: auto;
 }
-
+header{
+    display: block; 
+    float:none; 
+    overflow-y: auto;
+}
 
 
