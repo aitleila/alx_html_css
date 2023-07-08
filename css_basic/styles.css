@@ -1,19 +1,17 @@
-html, body 
+html, 
+
+body 
 { width: 100% }
-table, th, td {
+
+    table, th, td {
     border: 1px solid black; writing-mode: horizontal-tb; padding: 8px
   }
   
-
-
-
-
 main
 { display:flex; width: 100%; flex-direction: row;flex: auto;}
 
-
     article {
-    width: 100%;
+    width: 40%;
     background-color: white;
     color: darkgreen;
     flex: 2;
@@ -23,15 +21,14 @@ main
     }
 
     aside {
-    width: 100%;
+    width: 34%;
     flex: 1;
     display: block; 
     float: right; 
     overflow-y: auto;
     }
 
-header{
-    float: left;
+    header{
     display: block;
     width: 100%;
 }
