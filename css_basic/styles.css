@@ -13,6 +13,7 @@ main
 
 
     article {
+    width: 100%;
     background-color: white;
     color: darkgreen;
     flex: 2;
@@ -22,6 +23,7 @@ main
     }
 
     aside {
+    width: 100%;
     flex: 1;
     display: block; 
     float: right; 
