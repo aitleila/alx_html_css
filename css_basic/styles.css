@@ -14,7 +14,7 @@ main
 
     article {
     background-color: white;
-    color: aqua;
+    color: darkgreen;
     flex: 2;
     display: block; 
     float: left; 
@@ -31,9 +31,9 @@ main
     }
 
 header{
+    float: left;
+    display: block;
     width: 100%;
-    overflow-y: auto;
-    flex-direction: row;
 }
 
 footer{
