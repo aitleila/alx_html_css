@@ -1,9 +1,9 @@
 html, body 
 { width: 100% }
 table, th, td {
-    border: 1px solid black; float:none;
+    border: 1px solid black; writing-mode: horizontal-tb; padding: 8px
   }
-  {table::content solid black}
+  
 
 
 
