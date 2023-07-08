@@ -1,13 +1,13 @@
 html, 
 
 body 
-{ width: 100% }
+{ width: 100%; background-color: powderblue;}
 
     table, th, td {
     border: 1px solid black; writing-mode: horizontal-tb; padding: 8px
   }
   
-main
+    main
 { display:flex; width: 100%; flex-direction: row;flex: auto;}
 
     article {
@@ -28,9 +28,12 @@ main
     overflow-y: auto;
     }
 
-    header{
+header{
     display: block;
+    float: left;
     width: 100%;
+    margin: 20px;
+    padding-top: 20px;
 }
 
 footer{
