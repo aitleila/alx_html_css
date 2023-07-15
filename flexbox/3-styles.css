@@ -376,8 +376,9 @@
   
   /*** 4. CARD ***/
   
-  /* Section SERVICES ============================= */
-  
+  /* Section SERVICES 
+      ============================= */
+
   .row::after{
     flex-wrap: wrap;
   }
