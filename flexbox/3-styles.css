@@ -379,7 +379,7 @@
   /* Section SERVICES 
       ============================= */
 
-  .row::after{
+  .row {
     flex-wrap: wrap;
   }
 
