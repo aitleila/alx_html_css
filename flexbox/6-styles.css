@@ -217,7 +217,7 @@
     float: right;
   }
   
-  .nav .nav-item .nav-item{
+  .nav .nav-item + .nav-item {
     margin: var(0 0 0 2rem);
   }
   
