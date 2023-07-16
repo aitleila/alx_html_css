@@ -212,6 +212,7 @@
   .navbar-menu {
     float: right;
   }
+
   .nav-item .nav-item{
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
@@ -219,17 +220,18 @@
     letter-spacing: var(--nav-item-letter-spacing);
     margin: var(0 0 0 2rem);
   }
+
   .nav {
     margin: 0;
     padding: 0;
     list-style: none;
     text-align: center;
     display: flex;
-    font-family: var(--nav-item-font-family);
-    font-weight: var(--nav-item-font-weight);
-    font-size: var(--nav-item-font-size);
-    letter-spacing: var(--nav-item-letter-spacing);
-    margin: var(0 0 0 2rem);
+        font-family: var(--nav-item-font-family);
+        font-weight: var(--nav-item-font-weight);
+        font-size: var(--nav-item-font-size);
+        letter-spacing: var(--nav-item-letter-spacing);
+        margin: var(--nav-item-margin);
   }
   
   .nav .nav-link {
