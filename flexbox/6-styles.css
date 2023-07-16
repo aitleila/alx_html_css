@@ -219,6 +219,11 @@
     font-size: var(--nav-item-font-size);
     letter-spacing: var(--nav-item-letter-spacing);
     margin: var(0 0 0 2rem);
+    font-family: var(--nav-item-font-family);
+    font-weight: var(--nav-item-font-weight);
+    font-size: var(--nav-item-font-size);
+    letter-spacing: var(--nav-item-letter-spacing);
+    margin: var(--0 0 0 2rem);
   }
 
   .nav {
@@ -228,14 +233,6 @@
     text-align: center;
     display: flex;
 
-    .nav-item + .nav-item {
-        font-family: var(--nav-item-font-family);
-        font-weight: var(--nav-item-font-weight);
-        font-size: var(--nav-item-font-size);
-        letter-spacing: var(--nav-item-letter-spacing);
-        display: var(--nav-item-display);
-        margin: var(--0 0 0 2rem);
-    }
   }
   
   .nav .nav-item {
@@ -243,7 +240,6 @@
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
     letter-spacing: var(--nav-item-letter-spacing);
-    display: var(--nav-item-display);
     margin: var(--0 0 0 2rem);
   }
   
