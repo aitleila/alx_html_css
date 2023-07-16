@@ -270,12 +270,12 @@
          z-index: 3;
          background: transparent;
 
-    position: var();
+    position: ;
   
-    display: var();
-    position: var();
-    top: var();
-    left: var();
+    display: ;
+    position: ;
+    top: ;
+    left: ;
   }
   
   /* Footer
