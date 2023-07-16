@@ -222,7 +222,7 @@
   }
   
   .nav {
-    margin: 0;
+    margin: 0 0 0 2rem;
     padding: 0;
     list-style: none;
     text-align: center;
@@ -234,7 +234,6 @@
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
     letter-spacing: var(--nav-item-letter-spacing);
-    margin: 0 0 0 2rem;
   }
   
   .nav .nav-link {
