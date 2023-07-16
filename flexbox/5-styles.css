@@ -266,8 +266,18 @@
 
   .header {
     padding: var(--header-padding);
-  }
+         position: relative;
+         z-index: 3;
+         background: transparent;
 
+    position: var();
+  
+    display: var();
+    position: var();
+    top: var();
+    left: var();
+  }
+  
   /* Footer
       ============================= */
   
