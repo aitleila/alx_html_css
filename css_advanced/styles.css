@@ -9,6 +9,7 @@
 }
 .menu{
     display: inline-block;
+    position: absolute;
     float: right;
     height: 15px;
     justify-content: flex-end;
