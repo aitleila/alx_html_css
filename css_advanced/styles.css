@@ -10,7 +10,7 @@
 .menu{
     display: inline-block;
     height: 15px;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: flex-start;
     gap: 52px;
     flex-shrink: 0;
