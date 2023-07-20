@@ -7,3 +7,11 @@
     height: 29.461px;
     flex-shrink: 0;
 }
+.menu{
+    display: inline-flex;
+    height: 15px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 52px;
+    flex-shrink: 0;
+}
