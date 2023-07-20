@@ -8,7 +8,7 @@
     flex-shrink: 0;
 }
 .menu{
-    display: inline-flex;
+    display: inline;
     height: 15px;
     justify-content: center;
     align-items: flex-start;
