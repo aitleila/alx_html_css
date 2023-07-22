@@ -52,14 +52,13 @@
     height: 44px;
     flex-shrink: 0;
     justify-content: center;
-    align-items: center;
     margin-left: 40%;
 }
 .p{
-align-items: center;
-display: inline-flex;
-justify-content: space-evenly;
-gap: 20%;
+    align-items: center;
+    display: inline-flex;
+    justify-content: space-evenly;
+    gap: 20%;
 
 }
 
