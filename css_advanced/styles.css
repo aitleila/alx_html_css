@@ -56,7 +56,7 @@
     margin-left: 40%;
 }
 .p{
-flex-direction: row;
+flex-direction: block;
 display: inline-block;
 }
 
