@@ -29,6 +29,12 @@
     justify-content: center;
     flex-shrink: 0;
     gap: 20%;
-    margin-left: 70%;
+    margin-left: 80%;
+}
+.first{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    
 }
 
