@@ -1,6 +1,32 @@
 .header{
-    background-image: url(Bitmap-2.jpg);
+   background-image:url(Bitmap-1.jpg) ;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
     background: radial-gradient(85.90% 85.90% at 50.00% 14.10%, rgba(41, 48, 61, 0.00) 0%, #071629 100%), #000;
     background-blend-mode: normal, color;
-    
+    width: 1448.15px;
+    height: 1055px;
+    flex-shrink: 0;
 }
+.logo{
+    display: inline-block;
+    align-items: center;
+    margin-left: 176px;
+    margin-top: 10%;
+    width: 167.016px;
+    height: 29.461px;
+    flex-shrink: 0;
+}
+.menu{
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    height: 15px;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-top: 10%;
+    gap: 20%;
+    margin-left: 25%;
+}
+
