@@ -91,6 +91,8 @@
 }
 
 .avatar1{
+    position: relative;
+    background-color: #C271FF;
     width: 1440px;
     height: 392px;
     flex-shrink: 0;
