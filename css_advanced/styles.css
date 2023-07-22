@@ -55,6 +55,7 @@
     margin-left: 40%;
 }
 .p{
+    justify-content: inline-block;
     align-items: center;
     display: inline-flex;
     justify-content: space-evenly;
