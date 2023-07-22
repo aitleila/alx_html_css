@@ -1,21 +1,6 @@
-.logo{
-    display: flex;
-    justify-content: flex-start;
-    align-items:flex-start;
-    justify-content: space-between;
-    width: 167.016px;
-    height: 29.461px;
-    flex-shrink: 0;
-}
-.menu{
-    display: inline-block;
-    position: absolute;
-    float: right;
-    height: 15px;
-    justify-content: flex-end;
-    align-items: flex-start;
-    gap: 52px;
-    flex-shrink: 0;
+.header{
+    background-image: url(Bitmap-2.jpg);
+    background: radial-gradient(85.90% 85.90% at 50.00% 14.10%, rgba(41, 48, 61, 0.00) 0%, #071629 100%), #000;
+    background-blend-mode: normal, color;
     
-
 }
