@@ -77,7 +77,7 @@
 .avatar{
     display: flex;
     justify-content: space-between;
-    justify-content: center;
+    justify-content: baseline;
     align-items: end;
     width: 150px;
     margin-left: 10%;
