@@ -56,8 +56,10 @@
     margin-left: 40%;
 }
 .p{
+    align-items: center;
 flex-direction: flex;
 display: inline-flex;
+justify-content: space-between;
 }
 
 
