@@ -72,6 +72,12 @@
     line-height: normal;
     justify-content: center;
     align-items: center;
+
+}
+.avatar{
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
     
 }
 
