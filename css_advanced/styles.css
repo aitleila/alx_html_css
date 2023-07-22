@@ -88,7 +88,14 @@
     height: 150px;
     flex-shrink: 0;
     gap: 100%;
+}
 
+.avatar1{
+    width: 1440px;
+    height: 392px;
+    flex-shrink: 0;
+    fill: #C271FF;
+    
 }
 
 
