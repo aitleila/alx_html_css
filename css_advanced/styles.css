@@ -75,10 +75,14 @@
 
 }
 .avatar{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: end;
     width: 150px;
     height: 150px;
     flex-shrink: 0;
-    
+
 }
 
 
