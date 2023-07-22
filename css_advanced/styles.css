@@ -78,7 +78,7 @@
     display: flex;
     justify-content: space-between;
     justify-content: baseline;
-    align-items: end;
+    align-items: baseline;
     width: 150px;
     margin-left: 10%;
     height: 150px;
