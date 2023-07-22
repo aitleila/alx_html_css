@@ -23,7 +23,7 @@
     position: absolute;
     display: inline-block;
     align-items:flex-start;
-    justify-content: space-between;
+    justify-content: space-around;
     height: 15px;
     justify-content: center;
     flex-shrink: 0;
