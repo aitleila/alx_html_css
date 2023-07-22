@@ -21,7 +21,7 @@
 }
 .menu{
     position: absolute;
-    padding: 10%;
+    justify-content: space-between;
     display: inline-block;
     align-items:flex-start;
     height: 15px;
