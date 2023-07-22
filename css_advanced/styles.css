@@ -78,13 +78,13 @@
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
-    margin-block: 20%;
     justify-content: baseline;
     align-items: baseline;
     width: 150px;
     margin-left: 10%;
     height: 150px;
     flex-shrink: 0;
+    gap: 20%;
 
 }
 
