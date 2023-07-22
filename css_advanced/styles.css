@@ -46,6 +46,13 @@
     flex-shrink: 0;
     justify-content: center;
     margin-left: 45%;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
 .p{
     display: inline-block;
