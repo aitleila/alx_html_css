@@ -11,9 +11,10 @@
 }
 .logo{
     position: absolute;
-    display: inline;
-    align-items:flex;
+    display: inline-block;
+    align-items:flex-start;
     justify-content: flex;
+    justify-content: center;
     margin-left: 20%;
     width: 167.016px;
     height: 29.461px;
