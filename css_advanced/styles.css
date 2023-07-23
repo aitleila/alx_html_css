@@ -105,10 +105,13 @@
 .tutorials{
     display: flex;
     position: relative;
-    display:list-item;
+    display:inline-block;
     flex-direction:row;
     justify-content:center;
     align-items:center;
+    width: 1228px;
+    height: 450px;
+    flex-shrink: 0;
 }
 
 
