@@ -103,15 +103,11 @@
     fill: #C271FF;
 }
 .tutorials{
-    display: flex;
-    justify-content: space-between;
-    justify-content: baseline;
-    align-items: baseline;
+ 
     width: 1228px;
     height: 450px;
     flex-shrink: 0;
-    margin-left: 15%;
-    margin-left: 15%;
+    
   
 }
 
