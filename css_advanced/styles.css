@@ -92,6 +92,7 @@
 
 .avatar1{
     position: relative;
+    display: block;
     display: flex;
     background-color: #C271FF;
     width: 1440px;
