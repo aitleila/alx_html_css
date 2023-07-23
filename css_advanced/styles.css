@@ -93,7 +93,7 @@
 .avatar1{
     justify-content: right;
     position: relative;
-    display: block;
+    display: inline-block;
     display: flex;
     background-color: #C271FF;
     width: 1440px;
