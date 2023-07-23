@@ -93,6 +93,8 @@
 .avatar1{
     position: relative;
     flex-direction: row;
+    justify-content: right;
+    align-items: center;
     background-color: #C271FF;
     width: 1440px;
     height: 392px;
