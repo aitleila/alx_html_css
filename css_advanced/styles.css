@@ -105,9 +105,9 @@
 .tutorials{
     display: flex;
     position: relative;
-    display:inline-table;
-    flex-direction:row-reverse;
-    justify-content:center;
+   
+    flex-direction:initial;
+    justify-content:space-between;
     align-items:center;
     width: 1228px;
     height: 450px;
