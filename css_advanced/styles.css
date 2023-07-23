@@ -103,7 +103,6 @@
     fill: #C271FF;
 }
 .tutorials{
-    margin-top: 5%;
     display: flex;
     justify-content: space-between;
     justify-content: baseline;
@@ -112,7 +111,7 @@
     height: 450px;
     flex-shrink: 0;
     margin-left: 15%;
-    gap: 100%;
+  
 }
 
 
