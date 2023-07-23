@@ -91,7 +91,7 @@
 }
 
 .avatar1{
-    margin-left: 10%;
+    justify-content: right;
     position: relative;
     display: block;
     display: flex;
