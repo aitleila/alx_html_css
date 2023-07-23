@@ -108,6 +108,7 @@
     height: 450px;
     flex-shrink: 0;
     margin-left: 10%;
+    margin-bottom: 20%;
     
 }
 .free{
@@ -115,7 +116,7 @@
     height: 502px;
     flex-shrink: 0;
     background-color:#071629;
-    
+
 }
 
 
