@@ -129,9 +129,11 @@
     width: 1440px;
     height: 3718px;
     background: #FFF;
-    display: inline-block;
+    display: flex;
     position: relative;
     flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
     
 }
 
