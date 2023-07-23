@@ -92,8 +92,6 @@
 
 .avatar1{
     position: relative;
-    align-items: center;
-    display: block;
     display: flex;
     background-color: #C271FF;
     width: 1440px;
