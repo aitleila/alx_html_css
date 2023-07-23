@@ -104,8 +104,10 @@
 }
 .tutorials{
     display: flex;
+    position: relative;
     flex-direction:column;
     justify-content:space-between;
+    display: inline-block;
     align-items:center;
     width: 1228px;
     height: 450px;
