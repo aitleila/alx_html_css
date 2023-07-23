@@ -109,8 +109,13 @@
     flex-shrink: 0;
     margin-left: 10%;
     
+}
+.free{
+    width: 1440px;
+    height: 502px;
+    flex-shrink: 0;
+    background-color:#071629;
     
-  
 }
 
 
