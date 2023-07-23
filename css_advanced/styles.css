@@ -92,6 +92,7 @@
 
 .avatar1{
     position: relative;
+    justify-content: space-between;
     flex-direction: row;
     justify-content: right;
     align-items: center;
