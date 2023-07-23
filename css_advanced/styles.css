@@ -112,6 +112,8 @@
     
 }
 .free{
+    display: flex;
+    position: relative;
     width: 1440px;
     height: 502px;
     flex-shrink: 0;
